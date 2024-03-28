@@ -28,7 +28,7 @@ const printInfo = [email, phone, linkedinUrl].filter(Boolean).join(" • ")
                <WorldMap />
                 {city}, {region}
             </span>
-            <footer class="print">
+            <footer class="print accesible-info">
                 {printInfo}
             </footer>
             <footer class="no-print">
@@ -89,6 +89,7 @@ const printInfo = [email, phone, linkedinUrl].filter(Boolean).join(" • ")
         gap: 1rem;
     }
     .info{
+        font-size: 0.65rem;
         display: flex;
         flex-direction: column;
         gap: 0.5rem;
@@ -118,6 +119,8 @@ const printInfo = [email, phone, linkedinUrl].filter(Boolean).join(" • ")
         letter-spacing: -0.05rem;
     }
     footer{
+        color: #888;
+        font-size: 0.65rem;
         display: flex;
         gap: 4px;
         margin-top: 8px;
