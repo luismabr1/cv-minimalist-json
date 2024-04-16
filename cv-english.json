@@ -1,0 +1,236 @@
+{
+  "basics": {
+    "name": "Luis Manuel Brito",
+    "label": "Technical Support Specialist with over 5 years of comprehensive experience in the IT area",
+    "image": "https://avatars.githubusercontent.com/u/26192119?v=4",
+    "email": "lsbrt4@gmail.com",
+    "phone": "+58 4120970355",
+    "url": "https://midu.dev",
+    "summary": "Over 5 years of experience as a Technical Support Specialist. Currently working as a Technical Support Analyst. Living in Caracas, Venezuela. I have worked in different environments: from technological environments for Retail Companies to restaurants.",
+    "location": {
+      "address": "",
+      "postalCode": "1040",
+      "city": "Caracas",
+      "countryCode": "ES",
+      "region": "Venezuela"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "LuismaBR",
+        "url": "https://linkedin.com/in/luismabr"
+      },
+      {
+        "network": "GitHub",
+        "username": "luismabr1",
+        "url": "https://github.com/luismabr1"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Mundo Total",
+      "position": "Technical Support Analyst",
+      "url": "https://twitch.tv/midudev",
+      "startDate": "2021-01-01",
+      "endDate": null,
+      "summary": "Support users in person and remotely. Installation and configuration of point of sale systems and fiscal printers. Preventive and corrective maintenance of computer equipment. Creation and maintenance of database backups.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "MoDo Caracas",
+      "position": "Technical Support Analyst",
+      "url": "https://twitch.tv/midudev",
+      "startDate": "2021-9-01",
+      "endDate": "2023-03-01",
+      "summary": "General Administration of Active Directory and Microsoft 365, Create, edit, and maintain user accounts, mailboxes, email contacts, distribution groups, and organizational units. Provide desktop technical support and troubleshoot issues related to computers, laptops, printers, LAN, file servers, remote VPN access, and software applications including Xetux, Microsoft Word, Excel, Visio, and Outlook. Oversee and maintain the local area network, file server, security surveillance system, office and network equipment, telecommunications lines, and automated agency systems. Lead the implementation and adaptation to the infrastructure of the NAGIOS monitoring system and the GLPI requirements management service",
+        "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "World Tel-Fax Electronics",
+      "position": "Technical Support Analyst",
+      "startDate": "2017-03-01",
+      "endDate": "2021-06-01",
+      "summary": "Execute activities related to providing technical support to users by: Installing, operating, and maintaining computer equipment and programs. Managing communication equipment, communication components, and structured cabling. Monitoring machine rooms, air conditioning structures, and electrical operation. Monitoring 900 and SMS services, web pages, servers, asterisk-avaya telephone exchange, and databases. Solving problems for associates on the technological platform and escalating to system engineers if unable to resolve reported incidents. Providing technical support to the Contact Center area and the administrative area using best practices.",
+      "highlights": [
+        "Started the company"
+      ]
+    }
+  ],
+  "volunteer": [{
+    "organization": "MOVENU INTERNACIONAL",
+    "position": "Volunteer",
+    "url": "https://organization.com/",
+    "startDate": "2014-01-01",
+    "endDate": "2022-01-01",
+    "summary": "Description…",
+    "highlights": [
+      "Awarded 'Volunteer of the Month'"
+    ]
+  }],
+  "education": [{
+    "institution": "Instituto de Mercadotecnia ISUM",
+    "url": "https://www.uoc.edu/portal/es/index.html",
+    "area": "Tecnico Superior Universitario en Informatica",
+    "studyType": "Bachelor",
+    "startDate": "2017-01-01",
+    "endDate": "2019-01-01",
+    "score": "4.0",
+    "courses": [
+      "DB1101 - Basic SQL"
+    ]
+  }],
+  "certificates": [{
+    "name": "Diplomado en Programacion Web y Base de Datos",
+    "date": "2018-11-07",
+    "issuer": "Instituto de Nuevas Tecnologias UNEWEB",
+    "url": "https://uneweb.edu.ve/"
+  }],
+  "publications": [{
+    "name": "Publication",
+    "publisher": "Company",
+    "releaseDate": "2014-10-01",
+    "url": "https://publication.com",
+    "summary": "Description…"
+  }],
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend"
+      ]
+    },
+    {
+      "name": "CSS",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Backend", "Fullstack"
+      ]
+    },
+    {
+      "name": "Tailwind",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "Node",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Backend", "JavaScript", "Servidor"
+      ]
+    },
+    {
+      "name": "MySQL",
+      "level": "Avanzado",
+      "keywords": [
+        "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones", "Colaboración", "Código Fuente"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones", "Colaboración", "Código Fuente", "Git"
+      ]
+    },
+    {
+      "name": "Next.js",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
+      ]
+    },
+    {
+      "name": "React",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+      ]
+    },
+    {
+      "name": "MongoDB",
+      "level": "Intermedio",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Bases de Datos"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Intermediate"
+    }
+  ],
+  "interests": [{
+    "name": "Complex Systems",
+    "keywords": [
+      "Maths",
+      "Fractals",
+      ""
+    ]
+  }],
+  "references": [{
+    "name": "Jane Doe",
+    "reference": "Reference…"
+  }],
+  "projects": [
+    {
+      "name": "Landing Links",
+      "isActive": true,
+      "description": "Reunion de links usados en la empresa",
+      "highlights": [
+        "Facilita la ubicacion de los links",
+        "Usable desde cualquier parte"
+      ],
+      "url": "https://landing-links-simple-p2auoide0-luismabr.vercel.app"
+    },
+    {
+      "name": "Agendador de Citas",
+      "isActive": true,
+      "description": "Retos de programación en JavaScript para cada día de diciembre hasta Navidad",
+      "highlights": [
+        "Agendacion mediante calendario",
+        "Login y redireccion a Creacion",
+        "Uso de No-SQL"
+      ],
+      "url": "https://spa-manager.vercel.app/"
+    },
+    {
+      "name": "Lector de QR",
+      "isActive": true,
+      "description": "Lector de qr movil para validar inventario",
+      "highlights": [
+        "Funcional con ssl",
+        "Base de datos en MySQL"
+      ],
+      "url": "https://modo-qr-page-e9t9rf93i-luismabr.vercel.app"
+    }
+   
+  ]
+}
+
