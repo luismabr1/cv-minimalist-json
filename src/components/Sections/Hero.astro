@@ -7,12 +7,14 @@ import LinkedIn from '@/components/icons/LinkedIn.astro'
 import X from '@/components/icons/X.astro'
 import GitHub from '@/components/icons/GitHub.astro'
 import WorldMap from '@/components/icons/WorldMap.astro'
+import Platzi from '../icons/Platzi.astro';
 const {name, label, email, image, phone, profiles} = basics
 const {city, region} = basics.location
 const SOCIAL_ICONS: Record<string, any> ={
     GitHub,
     X,
-    LinkedIn
+    LinkedIn,
+    Platzi
 }
 
 const linkedInfo = profiles.find(({network}) => network === "LinkedIn")
