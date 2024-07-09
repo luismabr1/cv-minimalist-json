@@ -37,9 +37,9 @@
       "name": "Mundo Total",
       "position": "Analista de Soporte Tecnico",
       "url": "https://twitch.tv/midudev",
-      "startDate": "2021-01-01",
+      "startDate": "2023-03-02",
       "endDate": null,
-      "summary": "- Soporte a usuarios de manera presencial y remota. Instalación y configuración de puntos de venta e impresoras fiscales.Mantenimiento preventivo y correctivo de equipos computacionales.Realización y mantenimiento de respaldos de bases de datos",
+      "summary": "- Soporte a usuarios de manera presencial y remota. Instalación y configuración de puntos de venta e impresoras fiscales. Mantenimiento preventivo y correctivo e instalacion de equipos computacionales. Realización y mantenimiento de respaldos de bases de datos",
       "highlights": [
         "Started the company"
       ]
@@ -205,14 +205,16 @@
   }],
   "projects": [
     {
-      "name": "Landing Links",
+      "name": "Creador y almacenador de QRs de imagenes",
       "isActive": true,
-      "description": "Reunion de links usados en la empresa",
+      "description": "Creador de QRs para imagenes",
       "highlights": [
-        "Facilita la ubicacion de los links",
-        "Usable desde cualquier parte"
+        "Crea QRs vinculados a imagenes",
+        "Usable desde cualquier parte del mundo",
+        "Usa Cloudinary para almacenar las imagenes",
+        "Se accesa por usuario y clave"
       ],
-      "url": "https://landing-links-simple-p2auoide0-luismabr.vercel.app"
+      "url": "https://qrmanager.vercel.app/"
     },
     {
       "name": "Agendador de Citas",
