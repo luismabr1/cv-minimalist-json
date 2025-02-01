@@ -6,7 +6,7 @@
     "email": "lsbrt4@gmail.com",
     "phone": "+58 4120970355",
     "url": "https://midu.dev",
-    "summary": "+5 años de experiencia como Especialista de Soporte Tecnico. Actualmente trabajo de Especialista de Soporte Tecnico. Vivo en Caracas, Venezuela. He trabajado en diferentes entornos: desde entornos tecnologicos para Empresas Retail hasta restaurantes.",
+    "summary": "+5 años de experiencia como Especialista de Soporte Tecnico. Actualmente trabajo de Analista de Soporte Tecnico. Vivo en Caracas, Venezuela. He trabajado en diferentes entornos: desde entornos tecnologicos para Empresas Retail hasta restauranes.",
     "location": {
       "address": "",
       "postalCode": "1040",
@@ -24,11 +24,6 @@
         "network": "GitHub",
         "username": "luismabr1",
         "url": "https://github.com/luismabr1"
-      },
-      {
-        "network": "Platzi",
-        "username": "luismabr1",
-        "url": "https://platzi.com/p/LuismaBR/"
       }
     ]
   },
@@ -39,7 +34,7 @@
       "url": "https://twitch.tv/midudev",
       "startDate": "2024-08-01",
       "endDate": null,
-      "summary": "Administración general de Active Directory y Microsoft 365: crear, editar y mantener cuentas de usuario, buzones, contactos de correo, grupos de distribución, unidades organizativas y acceso • Brindar soporte técnico de escritorio y solucionar investigar problemas relacionados con computadoras, laptop, impresoras, LAN, servidor de archivos, acceso remoto VPN y aplicaciones de software que incluyen Xetux, Microsoft Word, Excel, Visio y Outlook. • Supervisar y mantener la red de área local, el servidor de archivos, el sistema de vigilancia de seguridad, el equipo de oficina y de red, las líneas de telecomunicaciones y los sistemas automatizados de la agencia. • Liderar la implantación y adaptación a la infraestructura del sistema de monitorización NAGIOS y del servicio de gestión de requisitos GLPI",
+      "summary": "Soporte a usuarios de manera presencial y remota. Instalación y configuración de Servidores Linux y Windows. Mantenimiento preventivo y correctivo de servidores Linux y Windows. Realización y mantenimiento de respaldos de bases de datos y servidores virtuales y fisicos",
         "highlights": [
         "Started the company"
       ]
@@ -50,7 +45,7 @@
       "url": "https://twitch.tv/midudev",
       "startDate": "2023-04-01",
       "endDate": "2024-08-01",
-      "summary": "- Soporte a usuarios de manera presencial y remota. Instalación y configuración de Servidores linux.Mantenimiento preventivo y correctivo de servidores. Realización y mantenimiento de respaldos de bases de datos y servidores virtuales y fisicos",
+      "summary": "- Soporte a usuarios de manera presencial y remota. Instalación y configuración de puntos de venta e impresoras fiscales.Mantenimiento preventivo y correctivo de equipos computacionales.Realización y mantenimiento de respaldos de bases de datos",
       "highlights": [
         "Started the company"
       ]
@@ -216,16 +211,14 @@
   }],
   "projects": [
     {
-      "name": "Creador y almacenador de QRs de imagenes",
+      "name": "Landing Links",
       "isActive": true,
-      "description": "Creador de QRs para imagenes",
+      "description": "Reunion de links usados en la empresa",
       "highlights": [
-        "Crea QRs vinculados a imagenes",
-        "Usable desde cualquier parte del mundo",
-        "Usa Cloudinary para almacenar las imagenes",
-        "Se accesa por usuario y clave"
+        "Facilita la ubicacion de los links",
+        "Usable desde cualquier parte"
       ],
-      "url": "https://qrmanager.vercel.app/"
+      "url": "https://landing-links-simple-p2auoide0-luismabr.vercel.app"
     },
     {
       "name": "Agendador de Citas",
