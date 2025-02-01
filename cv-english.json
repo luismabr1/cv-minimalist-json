@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Luis Manuel Brito",
-    "label": "Especialista de Soporte Tecnico con mas de 5 años de experiencia integral en el area de TI",
+    "label": "Technical Support Specialist with over 5 years of comprehensive experience in the IT area",
     "image": "https://avatars.githubusercontent.com/u/26192119?v=4",
     "email": "lsbrt4@gmail.com",
     "phone": "+58 4120970355",
     "url": "https://midu.dev",
-    "summary": "+5 años de experiencia como Especialista de Soporte Tecnico. Actualmente trabajo de Especialista de Soporte Tecnico. Vivo en Caracas, Venezuela. He trabajado en diferentes entornos: desde entornos tecnologicos para Empresas Retail hasta restaurantes.",
+    "summary": "Over 5 years of experience as a Technical Support Specialist. Currently working as a Technical Support Analyst. Living in Caracas, Venezuela. I have worked in different environments: from technological environments for Retail Companies to restaurants.",
     "location": {
       "address": "",
       "postalCode": "1040",
@@ -32,41 +32,41 @@
       "name": "MoDo Caracas",
       "position": "Especialista de Soporte Tecnico",
       "url": "https://twitch.tv/midudev",
-      "startDate": "2024-08-01",
+      "startDate": "2024-08-02",
       "endDate": null,
-      "summary": "Administración general de Active Directory y Microsoft 365: crear, editar y mantener cuentas de usuario, buzones, contactos de correo, grupos de distribución, unidades organizativas y acceso • Brindar soporte técnico de escritorio y solucionar investigar problemas relacionados con computadoras, laptop, impresoras, LAN, servidor de archivos, acceso remoto VPN y aplicaciones de software que incluyen Xetux, Microsoft Word, Excel, Visio y Outlook. • Supervisar y mantener la red de área local, el servidor de archivos, el sistema de vigilancia de seguridad, el equipo de oficina y de red, las líneas de telecomunicaciones y los sistemas automatizados de la agencia. • Liderar la implantación y adaptación a la infraestructura del sistema de monitorización NAGIOS y del servicio de gestión de requisitos GLPI",
-        "highlights": [
+      "summary": "General Administration of Active Directory and Microsoft 365, Create, edit, and maintain user accounts, mailboxes, email contacts, distribution groups, and organizational units. Provide desktop technical support and troubleshoot issues related to computers, laptops, printers, LAN, file servers, remote VPN access, and software applications including Xetux, Microsoft Word, Excel, Visio, and Outlook. Oversee and maintain the local area network, file server, security surveillance system, office and network equipment, telecommunications lines, and automated agency systems. Lead the implementation and adaptation to the infrastructure of the NAGIOS monitoring system and the GLPI requirements management service",
+      "highlights": [
         "Started the company"
       ]
     },
     {
       "name": "Mundo Total",
-      "position": "Analista de Soporte Tecnico",
+      "position": "Technical Support Analyst",
       "url": "https://twitch.tv/midudev",
       "startDate": "2023-04-01",
       "endDate": "2024-08-01",
-      "summary": "- Soporte a usuarios de manera presencial y remota. Instalación y configuración de Servidores linux.Mantenimiento preventivo y correctivo de servidores. Realización y mantenimiento de respaldos de bases de datos y servidores virtuales y fisicos",
+      "summary": "Support users in person and remotely. Installation and configuration of point of sale systems and fiscal printers. Preventive and corrective maintenance of computer equipment. Creation and maintenance of database backups.",
       "highlights": [
         "Started the company"
       ]
     },
     {
       "name": "MoDo Caracas",
-      "position": "Analista de Soporte Tecnico",
+      "position": "Technical Support Analyst",
       "url": "https://twitch.tv/midudev",
       "startDate": "2021-9-01",
       "endDate": "2023-03-01",
-      "summary": "Administración general de Active Directory y Microsoft 365: crear, editar y mantener cuentas de usuario, buzones, contactos de correo, grupos de distribución, unidades organizativas y acceso • Brindar soporte técnico de escritorio y solucionar investigar problemas relacionados con computadoras, laptop, impresoras, LAN, servidor de archivos, acceso remoto VPN y aplicaciones de software que incluyen Xetux, Microsoft Word, Excel, Visio y Outlook. • Supervisar y mantener la red de área local, el servidor de archivos, el sistema de vigilancia de seguridad, el equipo de oficina y de red, las líneas de telecomunicaciones y los sistemas automatizados de la agencia. • Liderar la implantación y adaptación a la infraestructura del sistema de monitorización NAGIOS y del servicio de gestión de requisitos GLPI",
+      "summary": "General Administration of Active Directory and Microsoft 365, Create, edit, and maintain user accounts, mailboxes, email contacts, distribution groups, and organizational units. Provide desktop technical support and troubleshoot issues related to computers, laptops, printers, LAN, file servers, remote VPN access, and software applications including Xetux, Microsoft Word, Excel, Visio, and Outlook. Oversee and maintain the local area network, file server, security surveillance system, office and network equipment, telecommunications lines, and automated agency systems. Lead the implementation and adaptation to the infrastructure of the NAGIOS monitoring system and the GLPI requirements management service",
         "highlights": [
         "Started the company"
       ]
     },
     {
       "name": "World Tel-Fax Electronics",
-      "position": "Analista de Soporte Tecnico",
+      "position": "Technical Support Analyst",
       "startDate": "2017-03-01",
       "endDate": "2021-06-01",
-      "summary": "Ejecutar actividades relacionadas con: Brindar apoyo tecnico a los usuarios instalando, operando y manteniendo los equipos y programas de computacion asi como tambien equipos de comunicacion, componentes de comunicacion y cableado estructurado. Monitoreo de sala de maquinas, estructura de aire acondicionado y funcionamiento electrico. Monitoreo de servicios 900 y SMS, paginas web, servidores, central telefonica asterisk-avaya y base de datos. Brindar apoyo tecnico a asociados solventando problemas en la plataforma tecnologica y escalar a los ingenieros de sistema en caso de no poder resolver las incidencias planteadas.Brindar apoyo tecnico al area de Contact Center y al area administrativa solventando incidencias presentadas utilizando las mejores practicas.",
+      "summary": "Execute activities related to providing technical support to users by: Installing, operating, and maintaining computer equipment and programs. Managing communication equipment, communication components, and structured cabling. Monitoring machine rooms, air conditioning structures, and electrical operation. Monitoring 900 and SMS services, web pages, servers, asterisk-avaya telephone exchange, and databases. Solving problems for associates on the technological platform and escalating to system engineers if unable to resolve reported incidents. Providing technical support to the Contact Center area and the administrative area using best practices.",
       "highlights": [
         "Started the company"
       ]
@@ -86,7 +86,7 @@
   "education": [{
     "institution": "Instituto de Mercadotecnia ISUM",
     "url": "https://www.uoc.edu/portal/es/index.html",
-    "area": "Tecnico Superior Universitario en Informatica",
+    "area": "Higher Technician in Computer Science",
     "studyType": "Bachelor",
     "startDate": "2017-01-01",
     "endDate": "2019-01-01",
@@ -96,7 +96,7 @@
     ]
   }],
   "certificates": [{
-    "name": "Diplomado en Programacion Web y Base de Datos",
+    "name": "Diploma in Web Programming and Databases",
     "date": "2018-11-07",
     "issuer": "Instituto de Nuevas Tecnologias UNEWEB",
     "url": "https://uneweb.edu.ve/"
@@ -244,3 +244,4 @@
    
   ]
 }
+
