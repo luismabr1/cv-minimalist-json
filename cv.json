@@ -24,6 +24,11 @@
         "network": "GitHub",
         "username": "luismabr1",
         "url": "https://github.com/luismabr1"
+      },
+      {
+        "network": "Platzi",
+        "username": "luismabr1",
+        "url": "https://platzi.com/p/LuismaBR/"
       }
     ]
   },
@@ -211,14 +216,16 @@
   }],
   "projects": [
     {
-      "name": "Landing Links",
+      "name": "Creador y almacenador de QRs de imagenes",
       "isActive": true,
-      "description": "Reunion de links usados en la empresa",
+      "description": "Creador de QRs para imagenes",
       "highlights": [
-        "Facilita la ubicacion de los links",
-        "Usable desde cualquier parte"
+        "Crea QRs vinculados a imagenes",
+        "Usable desde cualquier parte del mundo",
+        "Usa Cloudinary para almacenar las imagenes",
+        "Se accesa por usuario y clave"
       ],
-      "url": "https://landing-links-simple-p2auoide0-luismabr.vercel.app"
+      "url": "https://qrmanager.vercel.app/"
     },
     {
       "name": "Agendador de Citas",
