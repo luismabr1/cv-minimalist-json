@@ -6,7 +6,7 @@
     "email": "lsbrt4@gmail.com",
     "phone": "+58 4120970355",
     "url": "https://midu.dev",
-    "summary": "+7 años de experiencia como Soporte Tecnico en TI. Actualmente trabajo de Especialista de Soporte Tecnico. Vivo en Caracas, Venezuela. He trabajado en diferentes entornos: desde entornos tecnologicos para Empresas Retail hasta restauranes.",
+    "summary": "+7 años de experiencia como Soporte Tecnico. Actualmente trabajo de Especialista de TI. Vivo en Caracas, Venezuela. He trabajado en diferentes entornos: desde entornos tecnologicos para Empresas Retail hasta restauranes. He participado en proyectos de infraestructura de TI, soporte tecnico, administracion de servidores y desarrollos especificos para solucionar problemas puntuales usando lenguajes de programacion tales como Javascript o Python. Me encanta aprender y compartir conocimientos. Me considero una persona proactiva, responsable y con capacidad para trabajar en equipo.",
     "location": {
       "address": "",
       "postalCode": "1040",
@@ -30,7 +30,7 @@
   "work": [
     {
       "name": "MoDo Caracas",
-      "position": "Especialista de Soporte Tecnico",
+      "position": "Especialista de TI",
       "url": "https://twitch.tv/midudev",
       "startDate": "2024-08-01",
       "endDate": null,
@@ -84,8 +84,8 @@
     ]
   }],
   "education": [{
-    "institution": "Instituto de Mercadotecnia ISUM",
-    "url": "https://www.uoc.edu/portal/es/index.html",
+    "institution": "Instituto Superior de Mercadotecnia ISUM",
+    "url": "https://isum.com.ve/",
     "area": "Tecnico Superior Universitario en Informatica",
     "studyType": "Bachelor",
     "startDate": "2017-01-01",
@@ -221,26 +221,28 @@
       "url": "https://landing-links-simple-p2auoide0-luismabr.vercel.app"
     },
     {
-      "name": "Agendador de Citas",
-      "isActive": true,
-      "description": "Retos de programación en JavaScript para cada día de diciembre hasta Navidad",
-      "highlights": [
-        "Agendacion mediante calendario",
-        "Login y redireccion a Creacion",
-        "Uso de No-SQL"
-      ],
-      "url": "https://spa-manager.vercel.app/"
-    },
-    {
       "name": "Lector de QR",
       "isActive": true,
       "description": "Lector de qr movil para validar inventario",
       "highlights": [
-        "Funcional con ssl",
-        "Base de datos en MySQL"
+        "Funcional en Moviles",
+        "Base de datos en MySQL",
+        "Busca Matchs entre QRs"
       ],
       "url": "https://modo-qr-page-e9t9rf93i-luismabr.vercel.app"
+    },
+    {
+      "name": "Creador de QRs",
+      "isActive": true,
+      "description": "Creador de Qrs para imagenes y documentos dinamicos",
+      "highlights": [
+        "Facil de usar",
+        "Base de datos en MongoDB",
+        "Integracion con Cloudinary"
+      ],
+      "url": "https://qrmanager.vercel.app/"
     }
+
    
   ]
 }

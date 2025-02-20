@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Luis Manuel Brito",
-    "label": "Technical Support Specialist with over 5 years of comprehensive experience in the IT area",
+    "label": "Technical Support Specialist with 7+ years of comprehensive experience in the IT area",
     "image": "https://avatars.githubusercontent.com/u/26192119?v=4",
     "email": "lsbrt4@gmail.com",
     "phone": "+58 4120970355",
     "url": "https://midu.dev",
-    "summary": "Over 5 years of experience as a Technical Support Specialist. Currently working as a Technical Support Analyst. Living in Caracas, Venezuela. I have worked in different environments: from technological environments for Retail Companies to restaurants.",
+    "summary": "+7 years of experience as Technical Support. I currently work as an IT Specialist. I live in Caracas, Venezuela. I have worked in different environments: from technological environments for Retail Companies to restaurants. I have participated in IT infrastructure projects, technical support, server administration and specific developments to solve specific problems using programming languages such as Javascript or Python. I love learning and sharing knowledge. I consider myself a proactive, responsible person with the ability to work in a team.",
     "location": {
       "address": "",
       "postalCode": "1040",
@@ -30,18 +30,18 @@
   "work": [
     {
       "name": "MoDo Caracas",
-      "position": "Especialista de Soporte Tecnico",
+      "position": "IT Specialist",
       "url": "https://twitch.tv/midudev",
-      "startDate": "2024-08-02",
+      "startDate": "2024-08-01",
       "endDate": null,
-      "summary": "General Administration of Active Directory and Microsoft 365, Create, edit, and maintain user accounts, mailboxes, email contacts, distribution groups, and organizational units. Provide desktop technical support and troubleshoot issues related to computers, laptops, printers, LAN, file servers, remote VPN access, and software applications including Xetux, Microsoft Word, Excel, Visio, and Outlook. Oversee and maintain the local area network, file server, security surveillance system, office and network equipment, telecommunications lines, and automated agency systems. Lead the implementation and adaptation to the infrastructure of the NAGIOS monitoring system and the GLPI requirements management service",
+      "summary": "Support users in person and remotely. Installation and configuration of Linux and Windows Servers. Preventive and corrective maintenance of Linux and Windows servers. Creation and maintenance of database and virtual/physical server backups.",
       "highlights": [
         "Started the company"
       ]
     },
     {
       "name": "Mundo Total",
-      "position": "Technical Support Analyst",
+      "position": "Technical Support Analyst", 
       "url": "https://twitch.tv/midudev",
       "startDate": "2023-04-01",
       "endDate": "2024-08-01",
@@ -53,11 +53,11 @@
     {
       "name": "MoDo Caracas",
       "position": "Technical Support Analyst",
-      "url": "https://twitch.tv/midudev",
+      "url": "https://twitch.tv/midudev", 
       "startDate": "2021-9-01",
       "endDate": "2023-03-01",
-      "summary": "General Administration of Active Directory and Microsoft 365, Create, edit, and maintain user accounts, mailboxes, email contacts, distribution groups, and organizational units. Provide desktop technical support and troubleshoot issues related to computers, laptops, printers, LAN, file servers, remote VPN access, and software applications including Xetux, Microsoft Word, Excel, Visio, and Outlook. Oversee and maintain the local area network, file server, security surveillance system, office and network equipment, telecommunications lines, and automated agency systems. Lead the implementation and adaptation to the infrastructure of the NAGIOS monitoring system and the GLPI requirements management service",
-        "highlights": [
+      "summary": "General Administration of Active Directory and Microsoft 365: create, edit and maintain user accounts, mailboxes, email contacts, distribution groups, organizational units and access. Provide desktop technical support and troubleshoot issues related to computers, laptops, printers, LAN, file server, remote VPN access and software applications including Xetux, Microsoft Word, Excel, Visio and Outlook. Monitor and maintain the local area network, file server, security surveillance system, office and network equipment, telecommunications lines and agency automated systems. Lead the implementation and adaptation to infrastructure of the NAGIOS monitoring system and GLPI requirements management service.",
+      "highlights": [
         "Started the company"
       ]
     },
@@ -65,8 +65,8 @@
       "name": "World Tel-Fax Electronics",
       "position": "Technical Support Analyst",
       "startDate": "2017-03-01",
-      "endDate": "2021-06-01",
-      "summary": "Execute activities related to providing technical support to users by: Installing, operating, and maintaining computer equipment and programs. Managing communication equipment, communication components, and structured cabling. Monitoring machine rooms, air conditioning structures, and electrical operation. Monitoring 900 and SMS services, web pages, servers, asterisk-avaya telephone exchange, and databases. Solving problems for associates on the technological platform and escalating to system engineers if unable to resolve reported incidents. Providing technical support to the Contact Center area and the administrative area using best practices.",
+      "endDate": "2021-06-01", 
+      "summary": "Execute activities related to: Provide technical support to users by installing, operating and maintaining computer equipment and programs as well as communication equipment, communication components and structured cabling. Monitoring of machine room, air conditioning structure and electrical operation. Monitoring of 900 and SMS services, web pages, servers, asterisk-avaya telephone exchange and database. Provide technical support to associates by solving problems on the technological platform and escalate to system engineers if unable to resolve reported incidents. Provide technical support to the Contact Center area and administrative area by resolving incidents using best practices.",
       "highlights": [
         "Started the company"
       ]
