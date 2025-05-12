@@ -29,12 +29,7 @@ const { title } = Astro.props;
 		background: #fff;
 		letter-spacing: -0.025rem;
 	}
-	body,
-	figure{
-		margin: 0;
-		padding: 0;
-	}
-  .page-header {
+	.page-header {
     position: sticky;
     top: 0;
     background: #fdfdfd;
@@ -46,6 +41,11 @@ const { title } = Astro.props;
     border-bottom: 1px solid #eee;
     z-index: 1000;
   }
+	body,
+	figure{
+		margin: 0;
+		padding: 0;
+	}
 	a{
 		text-decoration: none;
 	}
@@ -90,11 +90,6 @@ const { title } = Astro.props;
 	@media print {
 	.print {
 			display: block !important;
-	}
-	main{
-		padding: 1rem;
-		margin: auto;
-		width: 100%;
 	}
 	}
 </style>
