@@ -190,6 +190,48 @@
       "keywords": [
         "Desarrollo Web", "Frontend", "Bases de Datos"
       ]
+    },
+    {
+      "name": "Astro",
+      "level": "Intermedio",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "JavaScript Framework"
+      ]
+    },
+    {
+      "name": "Python",
+      "level": "Intermedio",
+      "keywords": [
+        "Desarrollo Web", "Backend", "Lenguaje de Programacion"
+      ]
+    },
+    {
+      "name": "PHP",
+      "level": "Intermedio",
+      "keywords": [
+        "Desarrollo Web", "Backend", "Lenguaje de Programacion"
+      ]
+    },
+    {
+      "name": "Shell Script",
+      "level": "Basico",
+      "keywords": [
+        "Desarrollo Web", "Backend", "Lenguaje de Programacion"
+      ]
+    },
+    {
+      "name": "PostgreSQL",
+      "level": "Intermedio",
+      "keywords": [
+        "Bases de Datos", "Almacenamiento de Datos", "Backend"
+      ]
+    },
+    {
+      "name": "SQL",
+      "level": "Intermedio",
+      "keywords": [
+        "Bases de Datos", "Almacenamiento de Datos", "Backend"
+      ]
     }
   ],
   "languages": [
