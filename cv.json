@@ -214,40 +214,39 @@
     "name": "Jane Doe",
     "reference": "Reference…"
   }],
-  "projects": [
+   "projects": [
     {
-      "name": "Landing Links",
+      "name": "Curriculum Vitae Online",
       "isActive": true,
-      "description": "Reunion de links usados en la empresa",
+      "description": "Curriculum Vitae Online con un diseño minimalista y moderno",
       "highlights": [
-        "Facilita la ubicacion de los links",
-        "Usable desde cualquier parte"
+        "Despliegue en Vercel",
+        "Uso de Astro"
       ],
-      "url": "https://landing-links-v2-git-v2-luis-manuel-britos-projects.vercel.app"
+      "url": "https://cv-luis-brito.vercel.app/"
     },
     {
-      "name": "Lector de QR",
+      "name": "Retail Shop",
       "isActive": true,
-      "description": "Lector de qr movil para validar inventario",
+      "description": "Tienda de retail para la venta de productos",
       "highlights": [
-        "Funcional en Moviles",
-        "Base de datos en MySQL",
-        "Busca Matchs entre QRs"
+        "Despliegue en Vercel",
+        "Uso de Next.js",
+        "Uso de Superbase"
       ],
-      "url": "https://modo-qr-page-e9t9rf93i-luismabr.vercel.app"
+      "url": "https://tienda-retail-small.vercel.app/"
     },
     {
-      "name": "Creador de QRs",
+      "name": "Creador de QR",
       "isActive": true,
-      "description": "Creador de Qrs para imagenes y documentos dinamicos",
+      "description": "Manejador de qr para la generacion de codigos QR dinamicos",
       "highlights": [
-        "Facil de usar",
-        "Base de datos en MongoDB",
-        "Integracion con Cloudinary"
+        "Generador de codigos QR",
+        "Uso de Next.js",
+        "Uso de MongoDB"
       ],
       "url": "https://qrmanager.vercel.app/"
     }
-
    
   ]
 }
