@@ -32,51 +32,56 @@
       }
     ]
   },
-  "work": [
-    {
-      "name": "MoDo Caracas",
-      "position": "Especialista de TI",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2024-08-01",
-      "endDate": null,
-      "summary": "Soporte a usuarios de manera presencial y remota. Instalación y configuración de Servidores Linux y Windows. Mantenimiento preventivo y correctivo de servidores Linux y Windows. Realización y mantenimiento de respaldos de bases de datos y servidores virtuales y fisicos",
-        "highlights": [
-        "Started the company"
-      ]
-    },
-    {
-      "name": "Mundo Total",
-      "position": "Analista de Soporte Tecnico",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2023-04-01",
-      "endDate": "2024-08-01",
-      "summary": "- Soporte a usuarios de manera presencial y remota. Instalación y configuración de puntos de venta e impresoras fiscales.Mantenimiento preventivo y correctivo de equipos computacionales.Realización y mantenimiento de respaldos de bases de datos",
-      "highlights": [
-        "Started the company"
-      ]
-    },
-    {
-      "name": "MoDo Caracas",
-      "position": "Analista de Soporte Tecnico",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2021-9-01",
-      "endDate": "2023-03-01",
-      "summary": "Administración general de Active Directory y Microsoft 365: crear, editar y mantener cuentas de usuario, buzones, contactos de correo, grupos de distribución, unidades organizativas y acceso • Brindar soporte técnico de escritorio y solucionar investigar problemas relacionados con computadoras, laptop, impresoras, LAN, servidor de archivos, acceso remoto VPN y aplicaciones de software que incluyen Xetux, Microsoft Word, Excel, Visio y Outlook. • Supervisar y mantener la red de área local, el servidor de archivos, el sistema de vigilancia de seguridad, el equipo de oficina y de red, las líneas de telecomunicaciones y los sistemas automatizados de la agencia. • Liderar la implantación y adaptación a la infraestructura del sistema de monitorización NAGIOS y del servicio de gestión de requisitos GLPI",
-        "highlights": [
-        "Started the company"
-      ]
-    },
-    {
-      "name": "World Tel-Fax Electronics",
-      "position": "Analista de Soporte Tecnico",
-      "startDate": "2017-03-01",
-      "endDate": "2021-06-01",
-      "summary": "Ejecutar actividades relacionadas con: Brindar apoyo tecnico a los usuarios instalando, operando y manteniendo los equipos y programas de computacion asi como tambien equipos de comunicacion, componentes de comunicacion y cableado estructurado. Monitoreo de sala de maquinas, estructura de aire acondicionado y funcionamiento electrico. Monitoreo de servicios 900 y SMS, paginas web, servidores, central telefonica asterisk-avaya y base de datos. Brindar apoyo tecnico a asociados solventando problemas en la plataforma tecnologica y escalar a los ingenieros de sistema en caso de no poder resolver las incidencias planteadas.Brindar apoyo tecnico al area de Contact Center y al area administrativa solventando incidencias presentadas utilizando las mejores practicas.",
-      "highlights": [
-        "Started the company"
-      ]
-    }
-  ],
+ "work": [
+  {
+    "name": "MoDo Caracas",
+    "position": "Especialista de TI",
+    "url": "",
+    "startDate": "2024-08-01",
+    "endDate": null,
+    "summary": "Brindo soporte técnico presencial y remoto a usuarios, garantizando operaciones de TI sin interrupciones. Instalo y configuro servidores Linux y Windows, realizando mantenimiento preventivo y correctivo. Administro y mantengo respaldos de bases de datos, servidores virtuales y físicos, asegurando la integridad y confiabilidad de los datos.",
+    "highlights": [
+      "Diseñé e implementé protocolos de respaldo de servidores, reduciendo el tiempo de recuperación de datos en un 30%.",
+      "Lideré proyectos de configuración de servidores, mejorando el rendimiento y la disponibilidad del sistema."
+    ]
+  },
+  {
+    "name": "Mundo Total C.A.",
+    "position": "Analista de Soporte Técnico",
+    "url": "",
+    "startDate": "2023-04-01",
+    "endDate": "2024-08-01",
+    "summary": "Proporcioné soporte técnico presencial y remoto, especializándome en la instalación y configuración de sistemas de punto de venta e impresoras fiscales. Realicé mantenimiento preventivo y correctivo de equipos informáticos y gestioné respaldos de bases de datos para garantizar la continuidad operativa.",
+    "highlights": [
+      "Optimizé la implementación de sistemas de punto de venta, mejorando la eficiencia en el procesamiento de transacciones.",
+      "Establecí un cronograma de mantenimiento proactivo, reduciendo el tiempo de inactividad de los equipos en un 25%."
+    ]
+  },
+  {
+    "name": "MoDo Caracas",
+    "position": "Analista de Soporte Técnico",
+    "url": "",
+    "startDate": "2021-09-01",
+    "endDate": "2023-03-01",
+    "summary": "Administré entornos de Active Directory y Microsoft 365, gestionando la creación, edición y mantenimiento de cuentas de usuario, buzones de correo, grupos de distribución y permisos de acceso. Proporcioné soporte técnico de escritorio, resolviendo problemas relacionados con computadoras, laptops, impresoras, redes LAN, VPN y aplicaciones como Xetux, Microsoft Office y Outlook. Supervisé la red local, servidores de archivos, sistemas de videovigilancia, equipos de red y telecomunicaciones. Lideré la implementación de los sistemas de monitoreo NAGIOS y gestión de servicios GLPI, optimizando la supervisión y resolución de incidencias en la infraestructura.",
+    "highlights": [
+      "Implementé con éxito NAGIOS, mejorando el monitoreo del sistema y reduciendo el tiempo de respuesta a incidentes en un 40%.",
+      "Dirigí la adopción de GLPI, optimizando los flujos de trabajo para la gestión de solicitudes de TI."
+    ]
+  },
+  {
+    "name": "World Tel-Fax Electronics",
+    "position": "Analista de Soporte Técnico",
+    "url": "",
+    "startDate": "2017-03-01",
+    "endDate": "2021-06-01",
+    "summary": "Brindé soporte técnico a usuarios, instalando, operando y manteniendo equipos informáticos, dispositivos de comunicación y cableado estructurado. Supervisé operaciones de centros de datos, incluyendo sistemas de aire acondicionado y eléctricos. Monitoreé servicios como plataformas 900 y SMS, sitios web, servidores, centrales telefónicas Asterisk-Avaya y bases de datos. Proporcioné asistencia técnica al área de Contact Center y al equipo administrativo, resolviendo incidencias en la plataforma tecnológica y escalando casos complejos a ingenieros de sistemas, siguiendo las mejores prácticas.",
+    "highlights": [
+      "Mejoré la estabilidad de la plataforma del Contact Center, reduciendo el tiempo de resolución de tickets en un 20%.",
+      "Optimizé los procesos de monitoreo del centro de datos, garantizando un 99.9% de disponibilidad para servicios críticos."
+    ]
+  }
+],
   "volunteer": [{
     "organization": "MOVENU INTERNACIONAL",
     "position": "Volunteer",
